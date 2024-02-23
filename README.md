@@ -9,8 +9,16 @@ This repository contains the source code for the adminto dashboard for Dynamic W
 
 ## Usage
 To view the website locally:
-- Download The File From Github Or Git Clone and use it in VS Code 
-- Code editor is Compulsory
+- Download The File From The Given Link : [Download](https://www.mediafire.com/file/eihs75xsnwx29cs/adminto-dashboard-.zip/file)
+- Install VS Code
+- Install VS Code Extension Live Preview
+- Then Open The Folder Where You Downloaded the file
+- Then Click Open With Code
+- After That Find INDEX.HTML
+- Click On Preview Search
+- Enjoy Results
+- Customize it as You Want
+- Integrate with your Backend Project
   
 ## Overview
 This admin dashboard can help you in any type of dynamic website or any CRM & CMS.
